@@ -8,6 +8,7 @@ I'm a researcher in AI policy and collective intelligence, and a director at the
 
 ## Recent publications
 - Thomas, A. and Nash, O. (2024) ‘Introducing the Workplace Algorithmic Impact Assessment as an AI Governance System’, in the Handbook of AI Impact Assessments, Oxford University Press.
+- Nash, O. (2024) A Socio-technical Innovation Systems (STIS) analysis framework: examining interactions between the AI innovation system and societal impacts on the UK workforce. The Pissarides Reivew into the Future of Work and Wellbeing - Working Paper. 
 - Thomas, A., Nash, O., Rohenkohl, B., and Clarke, J. (2024) The Disruption Index - Renewing the UK’s Innovation Ecosystem, Institute for the Future of Work.
 
 ## Projects
