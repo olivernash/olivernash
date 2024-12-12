@@ -12,8 +12,8 @@ I'm a researcher in AI policy and collective intelligence, and a director at the
 - Thomas, A., Nash, O., Rohenkohl, B., and Clarke, J. (2024) The Disruption Index - Renewing the UK’s Innovation Ecosystem, Institute for the Future of Work.
 
 ## Projects
-- **[Assembly](https://github.com/olivernash/assembly):** A deliberative platform for addressing complex policy challenges through collective intelligence and participatory governance.
-- **[Flourish](https://ifow.org):** A skills platform helping individuals and organisations navigate green job pathways, supported by research from the Pissarides Review.
+- **[Flourish](https://ufi.co.uk/voctech-directory/flourish-improving-pathways-into-green-jobs-in-cornwall-and-grimsby/):** A skills platform helping individuals and organisations navigate green job pathways, supported by research from the Pissarides Review.
+- **[Assembly](https://ifow.org):** A deliberative platform for addressing complex policy challenges through collective intelligence and participatory governance. This is focused on supporting socio-technical integration with respect to frontier AI systems.
 - **[Collective Analytics](https://github.com/olivernash/collective-analytics):** A tool leveraging natural language processing and machine learning to analyse collective decision-making.
 
 ## How to Get in Touch
