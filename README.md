@@ -1,5 +1,5 @@
 
-I'm a collective intelligence researcher and a director at the [Institute for the Future of Work (IFOW)](https://www.ifow.org). My research at [UCL STEaPP](https://www.ifow.org) and IFOW focuses on the intersection of AI, public policy, and collective intelligence, with a particular focus on the impact of AI on the labour market from a socio-technical perspective.
+I'm a collective intelligence researcher and a director at the [Institute for the Future of Work (IFOW)](https://www.ifow.org). My research at [UCL STEaPP](https://www.ucl.ac.uk/steapp/) and IFOW focuses on the intersection of AI, public policy, and collective intelligence, with a particular focus on the impact of AI on the labour market from a socio-technical perspective.
 
 ## Research interests
 - **AI Policy -** Analysing the impact of AI on the labour market and work, with a focus on socio-technical governance frameworks and the use of innovation mapping and scientometrics methodologies to examine innovation systems and how they are changing.
