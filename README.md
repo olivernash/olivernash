@@ -2,9 +2,9 @@
 I'm a researcher in AI policy and collective intelligence, and a director at the [Institute for the Future of Work (IFOW)](https://www.ifow.org). My research at [UCL STEaPP](https://www.ifow.org) and IFOW focuses on the intersection of AI, public policy, and collective intelligence, with a particular focus on the impact of AI on the labour market and work from a socio-technical perspective.
 
 ## Research interestrs
-- **AI Policy-** Analysing the impact of frontier AI on the labour market and work, with a focus on socio-technical governance frameworks and collective intelligence.
-- **Future of Work-** Exploring how AI and automation is impacting work, workers and the labour market.
-- **Responsible AI-** Researching privacy-preserving technologies, algorithmic governance, and the societal implications of AI adoption. I have worked on the development of privacy-preserving technologies, including the open-source Covid Watch project, which published the world's first privacy-preserving and centralised protocol for contact tracing, later adopted by Apple and Google.   
+- **AI Policy -** Analysing the impact of frontier AI on the labour market and work, with a focus on socio-technical governance frameworks and collective intelligence.
+- **Future of Work -** Exploring how AI and automation is impacting work, workers and the labour market. This draws on my previous experience as Head of Innovation and Skills at the Department for Science Innovation and Technology (DSIT), where my team lead on cross-government policy and analysis related to the futurue of work. 
+- **Responsible AI -** Researching privacy-preserving technologies, algorithmic governance, and the societal implications of AI adoption. I have worked on the development of privacy-preserving technologies, including the open-source Covid Watch project, which published the world's first privacy-preserving and centralised protocol for contact tracing, later adopted by Apple and Google.   
 
 ## Recent publications
 - Thomas, A. and Nash, O. (2024) ‘Introducing the Workplace Algorithmic Impact Assessment as an AI Governance System’, in the Handbook of AI Impact Assessments, Oxford University Press.
