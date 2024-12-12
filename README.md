@@ -3,7 +3,7 @@ I'm a collective intelligence researcher and a director at the [Institute for th
 
 ## Research interests
 - **AI Policy -** Analysing the impact of AI on the labour market and work, with a focus on socio-technical governance frameworks and the use of innovation mapping and scientometrics methodologies to examine innovation systems and how they are changing.
-- **Future of Work -** Exploring how AI and automation is impacting work, workers and the labour market. This draws on my previous experience as Head of Innovation and Skills at the Department for Science Innovation and Technology (DSIT), where my team lead on cross-government policy and analysis related to the futurue of work. 
+- **Future of Work -** Exploring how AI and automation is impacting work, workers and the labour market. This draws on my previous experience as Head of Innovation and Skills at the Department for Science Innovation and Technology (DSIT), where my team lead on cross-government policy and analysis related to the future of work. 
 - **Responsible AI -** Researching privacy-preserving technologies, algorithmic governance, and impact assessments. I have worked on the development of privacy-preserving technologies, including the open-source and non-profit Covid Watch project, which published the world's first privacy-preserving and centralised protocol for contact tracing, later adopted by Apple and Google as part of the GAEN protocol, and used by the NHS. I subsequently worked for NHSX and Department for Health and Social Care (DHSC) as Head of Future Planning during the pandemic.
 
 ## Recent publications
