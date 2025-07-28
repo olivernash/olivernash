@@ -21,6 +21,7 @@ I'm a collective intelligence researcher and a director at the [Institute for th
 ## Getting in touch
 - **Email:** oliver [at] ifow [dot] org
 - **LinkedIn:** [linkedin.com/in/olivernash](https://linkedin.com/in/olivernash)
+- **BlueSky:** [@oliver-nash](https://bsky.app/profile/oliver-nash.bsky.social)
 - **Twitter:** [@olivernash](https://twitter.com/olivernash)
 
 If you're interested in collaborating on research, policy work or any of the projects above, feel free to reach out.
